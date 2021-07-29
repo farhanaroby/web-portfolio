@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+h3{
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.name{
+    color: darkorange;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.height{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.height img{
+    width: 100%;
+    text-align:center;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+}
